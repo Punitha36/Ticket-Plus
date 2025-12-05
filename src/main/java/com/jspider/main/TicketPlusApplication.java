@@ -1,6 +1,6 @@
 package com.jspider.main;
 
-import com.jspiders.users.AdminServiceImpl;
+import com.jspider.users.AdminServiceImpl;
 
 import java.util.*;
 import java.util.Scanner;

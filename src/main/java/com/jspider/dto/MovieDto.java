@@ -1,7 +1,9 @@
 package com.jspider.dto;
 
-import com.jspiders.enums.CertificateType;
-import com.jspiders.enums.MovieStatus;
+import com.jspider.enums.CertificateType;
+import com.jspider.enums.MovieStatus;
+import com.jspider.enums.CertificateType;
+import com.jspider.enums.MovieStatus;
 
 public class MovieDto {
     private String title;

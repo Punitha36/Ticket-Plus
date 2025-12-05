@@ -1,10 +1,8 @@
 package com.jspider.service;
 
-import com.jspiders.dao.MovieDaoImpl;
-import com.jspiders.dto.MovieDto;
-import com.jspiders.entity.MovieEntity;
-import com.jspiders.enums.CertificateType;
-import com.jspiders.enums.MovieStatus;
+import com.jspider.dao.MovieDaoImpl;
+import com.jspider.dto.MovieDto;
+import com.jspider.entity.MovieEntity;
 
 import java.util.List;
 
